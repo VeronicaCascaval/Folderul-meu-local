@@ -8,3 +8,7 @@ Am adaugat o modificare la test case.
 
 
 Am adaugat acest text din browser 
+
+
+
+text text
