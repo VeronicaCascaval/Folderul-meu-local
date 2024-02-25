@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+Text din calculator
+=======
+Am adaugat o modificare la test case.
+
+
+
+
+
+
+
+
+Am adaugat acest text din browser 
+
+
+
+text text uuu
+
+>>>>>>> f5aa5ad937e224eb8e5e2e2038df43986fbe7a87
